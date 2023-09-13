@@ -8,26 +8,26 @@ Live Site URL:
 # # Built with
 - HTML5
 - CSS
-- Js
-- Document Object Manipulation using Js and JQuery
+- Javascript
+- Document Object Manipulation
 
 # # Features
-- Email validation
-- Confirmation Message using DOM
-- Basic Desktop and Mobile Responsiveness
+- Error handling
+- Age Display Divided into Years, Months, and Days
+- Calculation Button
 
 
 # # What I learnt?
-- Use of Document Object Manipulation with JQuery and Javascript
-- Creating Custom UI
-- Flexbox
-- Website Responsiveness
+- Logic of Semi-accurate age calculation
+- DOM
+- Responsive Styling
+- Javascript programming
 
 
 # # Challenges Faced
 - Code Structure
-- Event handling
-- Media Query
+- Algorithm for exact calculation
+- Error Handling
 
 # # Author
 Angelo Burog
