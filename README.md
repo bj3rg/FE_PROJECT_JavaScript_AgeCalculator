@@ -2,9 +2,8 @@
 
 # # Links
 
-Solution URL: 
-
-Live Site URL:  https://github.com/bj3rg/FrontendMentor-Age-Calculator-App
+Solution URL: https://github.com/bj3rg/FrontendMentor-Age-Calculator-App
+Live Site URL:  https://bj3rg.github.io/FrontendMentor-Age-Calculator-App/
 
 # # Built with
 - HTML5
