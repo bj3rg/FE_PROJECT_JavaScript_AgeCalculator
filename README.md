@@ -2,15 +2,13 @@
 
 # # Links
 
-Solution URL: https://github.com/bj3rg/FE_PROJECT_JavaScript_AgeCalculator
-
 Live Site URL:  https://bj3rg.github.io/FE_PROJECT_JavaScript_AgeCalculator/
 
 # # Built with
 - HTML5
 - CSS
 - Javascript
-- Document Object Manipulation
+- DOM
 
 # # Features
 - Error handling
